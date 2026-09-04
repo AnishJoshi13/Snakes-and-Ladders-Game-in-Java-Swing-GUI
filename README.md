@@ -1,2 +1,1 @@
-# Snakes-and-Ladders-Game-in-Java-Swing-GUI
-Snakes and Ladders game created using Java Swing GUI
+Some pre-AI hand coded stuff! Good old days :)
